@@ -4,7 +4,7 @@ import java.awt.*;
 import java.util.*;
 
 import processing.core.PImage;
-
+//mario is litt
 public class Mario extends Sprite {
 
 	public static final int MARIO_WIDTH = 40;
